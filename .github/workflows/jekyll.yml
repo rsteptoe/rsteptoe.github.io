@@ -1,0 +1,9 @@
+title: "My Biology Portfolio"
+name: "Your Name"
+description: "College biology projects, labs, and fieldwork"
+url: "https://yourusername.github.io"
+baseurl: "" # Leave blank for user/organization GitHub Pages repo
+
+minimal_mistakes_skin: "sunrise"
+
+remote_theme: mmistakes/minimal-mistakes@4.24.0
