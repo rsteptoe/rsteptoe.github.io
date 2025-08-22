@@ -6,4 +6,4 @@ baseurl: "" # Leave blank for user/organization GitHub Pages repo
 
 minimal_mistakes_skin: "sunrise"
 
-theme: minimal-mistakes-jekyll
+remote_theme: mmistakes/minimal-mistakes@4.24.0
