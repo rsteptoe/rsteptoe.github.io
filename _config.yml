@@ -316,10 +316,10 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: ""
+      path: "github.com/resteptoe/rsteptoe.github.io/"
       type: posts
     values:
-      layout: home
+      layout: single
       author_profile: true
       read_time: false
       comments: # true
