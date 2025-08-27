@@ -10,7 +10,7 @@
 # Review documentation to determine if you should use `theme` or `remote_theme`
 # https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/#installing-the-theme
 
-# theme                  : "minimal-mistakes-jekyll"
+theme                  : "minimal-mistakes-jekyll"
 # remote_theme           : "mmistakes/minimal-mistakes"
 minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "default", "dirt", "neon", "mint", "plum", "sunrise"
 
@@ -23,7 +23,7 @@ subtitle                 : "Hello diatoms" # site tagline that appears below sit
 name                     : "Riley Steptoe"
 description              : "An amazing website."
 url                      : "https://rsteptoe.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "/portfolio" # the subpath of your site, e.g. "/blog"
+baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "rsteptoe/rsteptoe.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : "/assets/images/coffee.jpg" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : "/assets/images/coffee.jpg" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
@@ -316,12 +316,12 @@ compress_html:
 defaults:
   # _posts
   - scope:
-      path: "github.com/resteptoe/rsteptoe.github.io/"
+      path: ""
       type: posts
     values:
       layout: single
       author_profile: true
       read_time: false
-      comments: # true
+      comments: # false
       share: false
       related: true
