@@ -6,10 +6,14 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/coffee.jpg
+intro:
+  intro: 
+  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 ---
 
 Welcome! This is my portfolio of academic projects at the University of West Georgia.
 
+{% include feature_row id="intro" type="center" %}
 {% include feature_row.html data=site.data.feature_row.feature_row %}
 
 
