@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: https://rsteptoe.github.io/rsteptoe/
-  # - title: "About"
-  #   url: https://rsteptoe.github.io/rsteptoe/about/
-  # - title: "Research Projects"
-  #   url: /research-projects/
-  # - title: "Field Experiences"
-  #   url: /Field Experiences/
-  # - title: "Academics"
-  #   url: /academics/
+  - title: "About"
+    url: https://rsteptoe.github.io/rsteptoe/about/
+  - title: "Research Projects"
+    url: /research-projects/
+  - title: "Field Experiences"
+    url: /Field Experiences/
+  - title: "Academics"
+    url: /academics/
