@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Riley Steptoe"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image, e.g. "/assets/images/coffee.jpg"
   bio              : "I am an **amazing** person."
   location         : "Georgia, USA"
   email            : rileysteptoe12@gmail.com
