@@ -113,7 +113,7 @@ analytics:
 
 
 # Site Author
-author:
+#author:
   name             : "Riley Steptoe"
   avatar           : path of avatar image, e.g. "/assets/images/coffee.jpg"
   bio              : "I am a biology major at the Univeristy of West Georgia studying the biogeography and biodiversity of diatoms."
