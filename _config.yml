@@ -115,14 +115,14 @@ analytics:
 # Site Author
 author:
   name             : "Riley Steptoe"
-  avatar           : # path of avatar image, e.g. "/assets/images/coffee.jpg"
-  bio              : "I am an **amazing** person."
+  avatar           : path of avatar image, e.g. "/assets/images/coffee.jpg"
+  bio              : "I am a biology major at the Univeristy of West Georgia studying the biogeography and biodiversity of diatoms."
   location         : "Georgia, USA"
   email            : rileysteptoe12@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:rileysteptoe12@gmail.com"
+      url: "mailto:rileysteptoe12@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
