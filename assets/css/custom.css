@@ -1,0 +1,7 @@
+/* Make intro image circular */
+.feature__wrapper#intro .archive__item-teaser img {
+  border-radius: 50%;
+  width: 150px;   /* adjust size */
+  height: 150px;  /* keep it square so circle is even*/
+  object-fit: cover; /* crop to fit */
+}
