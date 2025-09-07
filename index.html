@@ -6,24 +6,6 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/coffee.jpg
-intro:
-  <section class="about-me" style="display:flex; align-items:center; flex-wrap:wrap; margin:2rem 0;">
-  <!-- Avatar -->
-  <img src="/assets/images/coffee.jpg"
-       alt="About Me Avatar"
-       style="width:120px; height:120px; border-radius:50%; object-fit:cover; margin-right:20px;">
-
-  <!-- Text -->
-  <div style="flex:1; min-width:200px;">
-    <h2>About Me</h2>
-    <p>
-      Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque.
-      Quis nulla, netus tempor in diam gravida tincidunt, <em>proin faucibus</em>
-      voluptate felis id sollicitudin.
-    </p>
-  </div>
-</section>
-
 feature_row:
   - image_path: assets/images/coffee.jpg
     alt: "placeholder image 1"
@@ -48,6 +30,23 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+<!-- About Me Section -->
+<section class="about-me" style="display:flex; align-items:center; flex-wrap:wrap; margin:2rem 0;">
+  <!-- Avatar -->
+  <img src="/assets/images/coffee.jpg"
+       alt="About Me Avatar"
+       style="width:120px; height:120px; border-radius:50%; object-fit:cover; margin-right:20px;">
+
+  <!-- Text -->
+  <div style="flex:1; min-width:200px;">
+    <h2>About Me</h2>
+    <p>
+      Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque.
+      Quis nulla, netus tempor in diam gravida tincidunt,
+      <em>proin faucibus</em> voluptate felis id sollicitudin.
+    </p>
+  </div>
+</section>
 
 {% include feature_row id="intro" type="left" %}
 
