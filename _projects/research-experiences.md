@@ -3,7 +3,7 @@
 layout: single
 collection: projects
 title: "Diatoms"
-permalink: /projects/research-experiences/
+permalink: /projects/research-projects/
 excerpt: "My diatoms go here"
 teaser: /assets/images/projects/coffee.jpg
 
