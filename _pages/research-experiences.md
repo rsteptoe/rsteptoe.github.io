@@ -3,9 +3,6 @@
 layout: single
 title: "Research Projects"
 permalink: /projects/research-experiences/
-layout: splash
-title: "Welcome to My Portfolio"
-permalink: /
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
