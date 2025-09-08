@@ -3,10 +3,10 @@ main:
   - title: "Home"
     url: https://rsteptoe.github.io/rsteptoe/
   - title: "Research Projects"
-    url: https://rsteptoe.github.io/rsteptoe/projects/research/
+    url: /projects/research-experiences/
   - title: "Field Experiences"
-    url: /field-experiences/
+    url: /projects/field-experiences/
   - title: "Coursework"
-    url: /coursework/
+    url: /projects/coursework/
   - title: "Contact"
-    url: /contact/
+    url: /projects/contact/
