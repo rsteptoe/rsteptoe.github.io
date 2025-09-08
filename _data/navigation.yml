@@ -1,7 +1,7 @@
 # main links
 main:
   - title: "Home"
-    url: https://rsteptoe.github.io/rsteptoe/
+    url: /index/
   - title: "Research Projects"
     url: /projects/research-experiences/
   - title: "Field Experiences"
