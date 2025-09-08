@@ -1,7 +1,6 @@
 ---
 
 layout: single
-collection: projects
 title: "Diatoms"
 permalink: /projects/research-experiences/
 excerpt: "My diatoms go here"
