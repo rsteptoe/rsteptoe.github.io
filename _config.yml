@@ -258,6 +258,9 @@ pagination:
     before: 2
     after: 2
 
+collections:
+  pages:
+    output: true
 
 # Plugins (previously gems:)
 plugins:
