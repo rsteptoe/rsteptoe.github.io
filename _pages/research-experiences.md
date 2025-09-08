@@ -1,6 +1,6 @@
 ---
 
-layout: wide
+layout: single
 title: "Research Projects"
 permalink: /projects/research-experiences/
 
