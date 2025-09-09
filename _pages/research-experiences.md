@@ -3,10 +3,7 @@
 layout: single
 title: "Research Projects"
 permalink: /projects/research-experiences/
-header:
-  overlay_color: "#000"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/coffee.jpg
+
 feature_row:
   - image_path: assets/images/coffee.jpg
     alt: "placeholder image 1"
