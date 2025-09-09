@@ -1,5 +1,4 @@
 ---
-
 layout: wide
 title: "Research Projects" {: .align-center}
 permalink: /projects/research-experiences/
