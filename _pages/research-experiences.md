@@ -1,7 +1,7 @@
 ---
 
-layout: single
-title: "Research Projects"
+layout: wide
+title: "Research Projects" {: .align-center}
 permalink: /projects/research-experiences/
 class: wide
 feature_row:
@@ -29,8 +29,4 @@ feature_row:
     btn_class: "btn--primary"
 ---
 {% include feature_row id="feature_row" type="left" %}
-.layout--single .page {
-  max-width: 100% !important;
-  padding-left: 2rem;
-  padding-right: 2rem;
-}
+
