@@ -2,7 +2,7 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research Projects"
+  - title: "Research Projects?"
     url: /pages/research/
   - title: "Field Experiences"
     url: /pages/field-experiences/
