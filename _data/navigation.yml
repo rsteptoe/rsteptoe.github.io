@@ -3,7 +3,7 @@ main:
   - title: "Home"
     url: /
   - title: "Research Projects"
-    url: /pages/research-experiences/
+    url: /pages/research/
   - title: "Field Experiences"
     url: /pages/field-experiences/
   - title: "Coursework"
