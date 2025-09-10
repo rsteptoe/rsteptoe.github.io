@@ -3,10 +3,9 @@ main:
   - title: "Home"
     url: /
   - title: "Research Projects"
-    url: /projects/research-experiences/
+    url: /pages/research-experiences/
   - title: "Field Experiences"
-    url: /projects/field-experiences/
+    url: /pages/field-experiences/
   - title: "Coursework"
-    url: /projects/coursework/
-  - title: "Contact"
-    url: /projects/contact/
+    url: /pages/coursework/
+
