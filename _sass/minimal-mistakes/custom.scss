@@ -1,0 +1,10 @@
+/* Make splash/single pages full width */
+.layout--single .page {
+  max-width: 100% !important;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.layout--single .page__content {
+  max-width: 100% !important;
+}
