@@ -27,10 +27,27 @@ header:
   padding-left: 2rem;
   padding-right: 2rem;
 }
+  
+.center-image {
+  text-align: center;
+}
+
+.center-image img {
+  max-width: 80%;   /* keeps image responsive */
+  height: auto;
+}
+
+.center-image figcaption {
+  font-size: 0.9em;   /* slightly smaller than body text */
+  color: #777;        /* soft grey */
+  margin-top: 0.5em;
+  font-style: italic; /* optional, makes it look caption-like */
+}
+
 </style>
 
 <figure style="text-align: center;">
-  <img src="/assets/images/coffee.jpg" alt="Description" style="max-width:80%; height:auto;" type="center">
+  <img src="/assets/images/coffee.jpg" alt="Description" style="max-width:80%; height:auto;>
   <figcaption>My descriptive caption here.</figcaption>
 </figure>
 
