@@ -6,6 +6,11 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/coffee.jpg
+gallery:
+  - image_path: assets/images/coffee.jpg
+  - image_path: /assets/images/coffee.jpg
+  - image_path: /assets/images/coffee.jpg
+   
 ---
 <style>
 /* widen the main content area but keep side spacing */
@@ -35,4 +40,6 @@ header:
     My descriptive caption here.
     </p>
 </div>
+
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
