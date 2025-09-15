@@ -26,5 +26,28 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
+<style>
+/* widen the main content area but keep side spacing */
+.page__content,
+.page__meta,
+.layout--single .page,
+.archive__item {
+  max-width: 1200px;   /* wider than default 800px */
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.splash,
+.feature__wrapper {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+  
+</style>
+
+
 <h2 class="archive__item-title" style="text-align: center;  font-size: 2rem; margin-top: .5rem; margin: 1rem;">Research Projects</h2>
 {% include feature_row id="feature_row" type= "left" %}
