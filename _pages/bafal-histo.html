@@ -40,7 +40,11 @@ sitemap: false
   padding-left: 2rem;
   padding-right: 2rem;
 }
-  
+  .pdf-viewer {
+    width: 100%;
+    height: 100vh;
+    border: none;
+  }
 </style>
 
 <div style="text-align: center;">
@@ -48,8 +52,11 @@ sitemap: false
   <p style= "font-size:0.9em; color:grey; margin-top:5px;">
     My descriptive caption here.
     </p>
+
 </div>
 
 {% include gallery caption="This is a sample gallery with **Markdown support**." %}
 
-<embed src="https://rsteptoe.github.io/assets/pdfs/histofinal.pdf" type="application/pdf" />
+<embed src="https://rsteptoe.github.io/assets/pdfs/histofinal.pdf" type="application/pdf"
+  type= "application/pdf"
+  class= "pdf-viewer" />
