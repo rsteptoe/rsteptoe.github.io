@@ -6,7 +6,7 @@ header:
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: /assets/images/coffee.jpg
-gallery-1:
+gallery1:
   - url: /assets/images/coffee.jpg
     image_path: /assets/images/coffee.jpg
     alt: "placeholder image 4"
@@ -19,7 +19,7 @@ gallery-1:
     image_path: /assets/images/coffee.jpg
     alt: "placeholder image 4"
     title: "Image 4 title caption"
-gallery-2:
+gallery2:
 - url: /assets/images/coffee.jpg
     image_path: /assets/images/coffee.jpg
     alt: "placeholder image 4"
@@ -102,8 +102,9 @@ opportunities at BAFAL. </p>
   <figcaption>This is a figure caption.</figcaption>
 </figure>
 
-{% include gallery id="gallery-1" caption="This is a sample gallery with **Markdown support**." %}
-{% include gallery id="gallery-2" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery1" caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery id="gallery2" layout="half" caption="This is a sample gallery with **Markdown support**." %}
+
 <embed src="https://rsteptoe.github.io/assets/pdfs/histofinal.pdf" type="application/pdf"
   type= "application/pdf"
   class= "pdf-viewer" />
